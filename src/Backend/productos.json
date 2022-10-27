@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "stock": "1",
+        "modelo": "Airmax 91",
+        "marca": "Nike",
+        "valor": "$50 US",
+        "img": "https://sneakers123.s3.amazonaws.com/release/357905/nike-air-max-91-stone-medium-309748-002.jpg"
+    },
+    {
+        "id": "2",
+        "stock": "5",
+        "modelo": "run star hike",
+        "marca": "Converse",
+        "valor": "$60 US",
+        "img": "https://celadasa.vtexassets.com/arquivos/ids/176213-800-auto?v=637439083137200000&width=800&height=auto&aspect=true"
+            },
+    {
+        "id": "3",
+        "stock": "11",
+        "modelo": "Distruptor II",
+        "marca": "Fila",
+        "valor": "$40 US",
+        "img": "https://www.moov.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dw04651a8c/products/FI_5FM00002-125/FI_5FM00002-125-1.JPG"
+    },
+    {
+        "id": "4",
+        "stock": "10",
+        "modelo": "Originals",
+        "marca": "Adidas",
+        "valor": "$50 US",
+        "img": "https://celadasa.vtexassets.com/arquivos/ids/213620/GW0509-1.jpg?v=637950461352230000"
+    },
+    {
+        "id": "5",
+        "stock": "4",
+        "modelo": "Mayze leather S",
+        "marca": "Puma",
+        "valor": "$100 US",
+        "img": "https://www.moov.com.ar/on/demandware.static/-/Sites-dabra-catalog/default/dwd09553ac/products/PU_388571-01/PU_388571-01-1.JPG"
+    }
+]
